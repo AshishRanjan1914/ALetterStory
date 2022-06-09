@@ -2,4 +2,38 @@ this is my first test code.
 And this code is awesome.
 This is new change.
 Thank you!
+
 this is ultranew change
+
+this is old change
+
+
+
+
+
+ git init
+  500  git status
+  501  git add test1.txt
+  502  git status  
+  506  clear  
+  509  git checkout -- test1.txt  
+  512  git add test1.txt
+  513  clear  
+  515  git commit -m "this is my first letter"  
+  517  git remote add origin https://github.com/AshishRanjan1914/ALetterStory.git
+  518  git remote -v
+  519  git push origin master  
+  525  git add .
+  526  git status
+  527  git reset HEAD test1 - Copy.txt  
+  532  git add test1.txt
+  533  git commit -m "this is my third change to letter"
+  534  git status
+  535  clear
+  536  git log
+  537  git config user.name
+  538  git config user.email  
+  541  git config user.name "Ashish Ranjan"
+  542  clear  
+  544  history
+>>>>>>> develop
